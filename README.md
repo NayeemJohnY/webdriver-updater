@@ -5,7 +5,7 @@
 
 1. If you haven't already cloned the repository locally
 
-    ***git clone http://[username]@stash.corp.web:7990/scm/ctaf/webdriverupdater.git***
+    ***git clone***
 
 2. Switch to the ***master*** branch
 
